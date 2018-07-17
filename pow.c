@@ -3,7 +3,6 @@
 
 int main () {
     int a,b,ans;
-    printf("Enter 2 nos");
     scanf("%d%d",&a,&b);
     ans=pow(a,b);
    printf("%d",ans);
