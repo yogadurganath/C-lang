@@ -3,8 +3,8 @@
 int vowelcheck(char);
 int main()
 {
-char n,s[100], t[100],a;
-int i, j = 0;
+char s[100], t[100],a;
+int i,n, j = 0;
 scanf("%d",&n);
 scanf("%s",s);
 a=strlen(s);
